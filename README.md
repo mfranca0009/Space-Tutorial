@@ -11,7 +11,7 @@ Space Tutorial Game for a class project related to Unity Game Programming.
 
 [D / →] - Move Right
 
-[Left-Mouse Button] - Shoot
+[Left-Mouse Button / CTRL] - Shoot
 
 [R] - Reload Game at Game Over
 
