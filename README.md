@@ -13,7 +13,7 @@ Space Tutorial Game for a class project related to Unity Game Programming.
 
 [Left-Mouse Button] - Shoot
 
-[R] - Reload game at game over
+[R] - Reload Game at Game Over
 
 # Unity Version
 
